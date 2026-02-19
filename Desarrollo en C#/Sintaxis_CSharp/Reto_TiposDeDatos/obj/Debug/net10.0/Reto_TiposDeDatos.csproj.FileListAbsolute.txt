@@ -1,0 +1,14 @@
+C:\Users\Sena\Desarrollo en C#\Sintaxis_CSharp\Reto_TiposDeDatos\bin\Debug\net10.0\Reto_TiposDeDatos.exe
+C:\Users\Sena\Desarrollo en C#\Sintaxis_CSharp\Reto_TiposDeDatos\bin\Debug\net10.0\Reto_TiposDeDatos.deps.json
+C:\Users\Sena\Desarrollo en C#\Sintaxis_CSharp\Reto_TiposDeDatos\bin\Debug\net10.0\Reto_TiposDeDatos.runtimeconfig.json
+C:\Users\Sena\Desarrollo en C#\Sintaxis_CSharp\Reto_TiposDeDatos\bin\Debug\net10.0\Reto_TiposDeDatos.dll
+C:\Users\Sena\Desarrollo en C#\Sintaxis_CSharp\Reto_TiposDeDatos\bin\Debug\net10.0\Reto_TiposDeDatos.pdb
+C:\Users\Sena\Desarrollo en C#\Sintaxis_CSharp\Reto_TiposDeDatos\obj\Debug\net10.0\Reto_TiposDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\Desarrollo en C#\Sintaxis_CSharp\Reto_TiposDeDatos\obj\Debug\net10.0\Reto_TiposDeDatos.AssemblyInfoInputs.cache
+C:\Users\Sena\Desarrollo en C#\Sintaxis_CSharp\Reto_TiposDeDatos\obj\Debug\net10.0\Reto_TiposDeDatos.AssemblyInfo.cs
+C:\Users\Sena\Desarrollo en C#\Sintaxis_CSharp\Reto_TiposDeDatos\obj\Debug\net10.0\Reto_TiposDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Sena\Desarrollo en C#\Sintaxis_CSharp\Reto_TiposDeDatos\obj\Debug\net10.0\Reto_TiposDeDatos.dll
+C:\Users\Sena\Desarrollo en C#\Sintaxis_CSharp\Reto_TiposDeDatos\obj\Debug\net10.0\refint\Reto_TiposDeDatos.dll
+C:\Users\Sena\Desarrollo en C#\Sintaxis_CSharp\Reto_TiposDeDatos\obj\Debug\net10.0\Reto_TiposDeDatos.pdb
+C:\Users\Sena\Desarrollo en C#\Sintaxis_CSharp\Reto_TiposDeDatos\obj\Debug\net10.0\Reto_TiposDeDatos.genruntimeconfig.cache
+C:\Users\Sena\Desarrollo en C#\Sintaxis_CSharp\Reto_TiposDeDatos\obj\Debug\net10.0\ref\Reto_TiposDeDatos.dll
